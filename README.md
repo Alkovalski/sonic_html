@@ -1,4 +1,3 @@
 # sonic_html
-Um teste do que eu conseguia fazer durante o 2° ano do médio tecnico.
-W, A, S e D para movimentação, 
-apertando a tecla de espaço meio que para todo o script
+W, A, S, D to move, space to jump, basic stuff
+I'm trying to program this with pure javascript
